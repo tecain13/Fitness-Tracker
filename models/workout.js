@@ -45,7 +45,7 @@ const exerciseSchema = new Schema(
             virtuals: true
         }
     }
-); 
+);
 
 // adds a property to schema
 exerciseSchema.virtual("totalDuration").get(function () {

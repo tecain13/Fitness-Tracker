@@ -33,6 +33,15 @@ a:visited {
   color: inherit;
 }
 
+.hover-home:hover{
+  color: yellow;
+}
+
+
+.hover-stats:hover{
+  color: yellow;
+}
+
 header {
   height: 150px;
   padding-top: 80px;
